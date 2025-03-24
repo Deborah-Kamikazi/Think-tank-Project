@@ -10,8 +10,8 @@ import Footer from "../components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Byte Guards",
-  creator: "Jacques Twizeyimana",
+  title: "Visionary Vibes",
+  creator: "Deborah Kamikazi",
   icons: "/images/logo.png",
   description:
     "Byte Guards is a community of developers who are passionate about learning and sharing their knowledge with others.",
