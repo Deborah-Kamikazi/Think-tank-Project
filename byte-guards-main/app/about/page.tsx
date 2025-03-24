@@ -40,21 +40,11 @@ export default function AboutUs() {
                 {member.name}
               </h5>
               <p className="text-zinc-600 text-xs py-3">{member.mission}</p>
-              <p className="text-sm text-zinc-600 font-medium">
-                {member.title}
-              </p>
+             
               <div className="mt-6 flex gap-x-4 text-zinc-700">
                 <a href={member.socials.insta} target="_blank" rel="noopener">
                   <span className="sr-only">Instagram</span>
                   <Instagram size={20} />
-                </a>
-                <a
-                  href={member.socials.linkedIn}
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <span className="sr-only">Linkedin</span>
-                  <Linkedin size={20} />
                 </a>
               </div>
             </div>

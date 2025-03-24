@@ -36,15 +36,7 @@ export default function Navbar() {
               <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
                 <Link href="/">
                   <span className="flex items-center space-x-2 text-2xl font-medium text-primary">
-                    <span>
-                      <Image
-                        src="/images/logo.png"
-                        alt="Byte Guards"
-                        width="48"
-                        height="48"
-                      />
-                    </span>
-                    {/* <span className="font-black">Byte Guards</span> */}
+                    
                   </span>
                 </Link>
 

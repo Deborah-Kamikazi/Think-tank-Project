@@ -4,25 +4,25 @@ export const CHALLENGES = [
   {
     title: "Introduction",
     description:
-      "This challenge has helped us discover who we are as leaders. We've figured out what matters to us and what we love doing, connecting it all to the 7 GC/GOs. This sets us up for a meaningful journey at ALU, where we'll make a difference based on our values and passions.      ",
-    link: "https://www.youtube.com/embed/CcTBv_OgxoY?si=FWEZwr1JRNPlJBz8",
+    "This challenge has helped us discover who we are as a team. We've figured out what matters to us and what we love doing. This sets us up for a meaningful journey at ALU, where we'll make a difference based on our values and passions.",
+    link: "https://www.youtube.com/embed/YSr7goL2FVA",
   },
   {
     title: "Discover Africa",
-    description: `In Namibia's Himba tribe, Kaya secretly desires a bath against cultural norms. Despite her marriage not fulfilling this, a surprise from her husband offers an unexpected opportunity. Bathing doesn't bring the transformative beauty she envisioned. Undeterred, Kaya and her mother initiate a day for girls to experience bathing joy within their cultural traditions. The village finds contentment in respecting and appreciating their unique way of life.`,
+    description: "In the Bantu culture, particularly among the Zulu people, Nandi secretly yearns for a moment of personal freedom through a bath, something considered unconventional within her community's traditions. While her marriage brings her joy and connection, it doesn’t satisfy her longing for this simple yet rare indulgence. One day, her husband surprises her with the gift of a private bathing experience, offering a fleeting opportunity for Nandi to fulfill her desire. However, as she immerses herself in the water, the beauty she anticipated seems distant and untransformative. Unwilling to give up, Nandi, along with her mother, decides to create a communal day where girls can experience bathing while respecting the sacred elements of their culture. This special occasion becomes a cherished moment for the village, where all members appreciate the delicate balance between modern desires and deep-rooted traditions, fostering a stronger bond of unity and understanding",
     link:
-      "https://www.youtube.com/watch?v=MYRQpJp3jrQ&feature=youtu.be",
+      "https://www.youtube.com/embed/MYRQpJp3jrQ",
   },
   {
-    title: "HELP-LAB (Hope for Mama Mugisha)",
-    description: `With hearts brimming with compassion, we took on the challenge of positively impacting the life of Mama Mugisha, a single mother diligently striving to provide for her five-year-old son. We gathered essential food supplies, a token of our support as she navigates life's daily challenges. It was an honor and a privilege to witness the transformative power of our actions, knowing that our contribution would help Mama Mugisha's son embark on his educational journey in September 2023. This eye-opening experience instilled in us a profound appreciation for the power of empathy and the transformative effect of extending a helping hand.`,
-    link: "https://www.youtube.com/embed/Sh632acwT5I?si=9IOG19cHGg_R4k6Z",
+    title: "HELP-LAB",
+    description: "With hearts full of empathy, we took the opportunity to assist two hardworking women who work as cleaners on the load, sharing the challenges they face in their daily work. We not only helped them clean the load but also offered financial support to ease their burdens. It was a privilege to extend our assistance and offer a glimpse of hope as they navigate the difficulties of their jobs. This experience deepened our understanding of the impact that compassion and support can have on individuals facing challenging circumstances, and it reminded us of the power of solidarity and kindness in making a real difference in someone's life.",
+    link: "https://www.youtube.com/embed/vo3-3JJ9bPQ",
   },
   {
     title: "Hunt For Treasure",
-    description: `With a spirit of curiosity, we set out to discover the hidden factors influencing the earnings and challenges faced by MTN/Airtel agents. Through engaging interviews with ten dedicated agents, we gained a deeper understanding of their experiences, illuminating the intricacies of their daily work. Driven to empower these unsung heroes, we crafted practical recommendations to propel their careers to new heights. Our journey was not just about gathering information; it was an act of empathy, reflecting our belief in the transformative power of understanding and support.`,
-    image:
-      "https://res.cloudinary.com/jsanbderg/image/upload/f_auto,q_auto/v1/byte-guards/tepqjhm5ukiouyvypj21",
+    description: "With a spirit of curiosity, we embarked on a journey to explore how women in Nyamirambo are being empowered and paving the way for their own success. Through insightful conversations with the dedicated women at the Nyamirambo Women Center, we gained a profound understanding of their resilience, challenges, and the innovative ways they are working to improve their lives. Driven by a desire to support their efforts, we developed actionable recommendations aimed at amplifying their impact and fostering further growth. Our visit was more than just an opportunity to learn; it was an act of solidarity, rooted in our belief in the transformative power of empowerment and community.",
+    link:
+    "https://www.youtube.com/embed/24F94XraLmM",
   },
   {
     title: "Launch Your Mission",
